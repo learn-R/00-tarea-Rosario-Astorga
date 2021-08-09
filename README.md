@@ -73,14 +73,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Rosario Astorga Pinto
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-
-R:
+R: R es un lenguaje de programación, mientras que RStudio en un entorno de desarrollo para escribir programas en R.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: Con push origin
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
